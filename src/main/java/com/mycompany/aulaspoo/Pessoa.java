@@ -14,7 +14,7 @@ public class Pessoa {
     }
 
     //Metodos acessores e modificadores
-    private String getNome() {    
+    public String getNome() {
         return nome;     
     }
 
